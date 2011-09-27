@@ -25,8 +25,8 @@
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.16, Ruby SDK 1.9.2-p180) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.0.5, Ruby SDK 1.9.2-p180) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec (v2.0.1, Ruby SDK 1.9.2-p180) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.0.5, Ruby SDK 1.9.2-p180) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.4, Ruby SDK 1.9.2-p180) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.0.5, Ruby SDK 1.9.2-p180) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="abstract (v1.0.0, Ruby SDK 1.9.2-p180) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.5.7, Ruby SDK 1.9.2-p180) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v3.0.5, Ruby SDK 1.9.2-p180) [gem]" level="application" />
